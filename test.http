@@ -1,0 +1,8 @@
+POST http://127.0.0.1:7002/add 
+content-type: application/json
+
+{
+    "name":"Hendry",
+    "salary":"61888",
+    "age":"26"
+}
